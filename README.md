@@ -1,6 +1,6 @@
 # Regen - Icons for macOS Apps
 
-This is a spot for me to share icons I've created to use on my local setup. I prefer circles for my icons. In some cases I used icons by other great designers but I also have a few of my own ideas. Those are here.
+This is a spot for me to share icons I've created to use on my local setup. I prefer circles for my icons. In some cases I used icons by other great designers but I also have a few of my own ideas. In one case, Iconjar, I liked the original icon better so I brought it back. Those are here.
 
 <img src="http://r3v.in/4sjQw/Regen-Screenshot-2x.jpg" width="706" height="702">
 
