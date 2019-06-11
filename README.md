@@ -6,16 +6,16 @@ This is a spot for me to share icons I've (re)created to use on my local setup. 
 
 ## Icons For
 
-• Applications Folder
-• Bear (See [Material Theme for Bear](https://github.com/r3volution11/material-theme-bear-notes))
-• Deliveries
-• Hyper
-• IconJar
-• Plex
-• Sketch
-• Sublime Merge
-• Textual
-• Visual Studio Code
+* Applications Folder
+* Bear (See [Material Theme for Bear](https://github.com/r3volution11/material-theme-bear-notes))
+* Deliveries
+* Hyper
+* IconJar
+* Plex
+* Sketch
+* Sublime Merge
+* Textual
+* Visual Studio Code
 
 This list will definitely grow over time. Feel free to use these as you'd like and request more. Just open an issue.
 
