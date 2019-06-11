@@ -27,7 +27,7 @@ FreeMacSoft also makes a great app for changing system icons as well as apps: [L
 
 ### Textual
 
-Textual requires changing two icon files. They're provided in the `icns/textual` directory. Replace these:
+In addition to the normal method above, Textual also requires changing two icon files within the app package. They're provided in the `icns/textual` directory. Replace these:
 
 1. `/Applications/Textual.app/Contents/Resources/applicationIcon.icns`
 2. `/Applications/Textual.app/Contents/Resources/applicationIconBirthday.icns`
