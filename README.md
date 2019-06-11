@@ -21,9 +21,9 @@ This list will definitely grow over time. Feel free to use these as you'd like a
 
 ## How To Change Icons
 
-For the most part replacing an app's icon is as simple as copying an image and pasting in that app's info panel. Here's a more detailed guide by 9to5Mac on how to do it: 
+For the most part replacing an app's icon is as simple as copying an image and pasting in that app's info panel. Here's a more detailed guide by 9to5Mac on how to do it: [How to change Mac app icons](https://9to5mac.com/2019/01/17/change-mac-icons/)
 
-[How to change Mac app icons](https://9to5mac.com/2019/01/17/change-mac-icons/)
+FreeMacSoft also makes a great app for changing system icons as well as apps: [LiteIcon](https://freemacsoft.net/liteicon/)
 
 ### Textual
 
