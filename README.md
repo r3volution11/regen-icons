@@ -1,11 +1,13 @@
 # Regen - Circle Icons for macOS Apps
 
-This is a spot for me to share icons I've (re)created to use on my local setup. I prefer consistency for my icons and like circles the most on desktop. I'm not trying to recreate the wheel, just making sure they're all round.
+This is a spot for me to share icons I've (re)created to use on my local setup, which is all about dark mode. I prefer consistency for my icons and like circles (spheres?) the most on desktop. I'm not trying to recreate the wheel, just making sure they're all round.
 
-<img src="http://r3v.in/IAylB/Regen-Screenshot-2x.jpg" width="860" height="702">
+<img src="http://r3v.in/80lny/Regen-Screenshot-2x.jpg" width="860" height="702">
 
 ## Icons For
 
+* Affinity Designer
+* Affinity Photo
 * Applications Folder
 * Bear (See [Material Theme for Bear](https://github.com/r3volution11/material-theme-bear-notes))
 * Deliveries
@@ -16,7 +18,6 @@ This is a spot for me to share icons I've (re)created to use on my local setup. 
 * Sublime Merge
 * Textual
 * Visual Studio Code
-* Affinity Designer
 
 This list will definitely grow over time. Feel free to use these as you'd like and request more. Just open an issue.
 
