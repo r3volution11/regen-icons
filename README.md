@@ -2,7 +2,7 @@
 
 This is a spot for me to share icons I've (re)created to use on my local setup. I prefer consistency for my icons and like circles the most on desktop. I'm not trying to recreate the wheel, just making sure they're all round.
 
-<img src="http://r3v.in/0OWbP/Regen-Screenshot-2x.jpg" width="860" height="702">
+<img src="http://r3v.in/PZzj3/Regen-Screenshot-2x.jpg" width="860" height="702">
 
 ## Icons For
 
