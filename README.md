@@ -2,7 +2,7 @@
 
 This is a spot for me to share icons I've (re)created to use on my local setup, which is all about dark mode. I prefer consistency for my icons and like circles (spheres?) the most on desktop. I'm not trying to recreate the wheel, just making sure they're all round.
 
-<img src="http://r3v.in/XuIYO/Regen-Screenshot-2x.jpg" width="860" height="860">
+<img src="http://r3v.in/yoHcq/Regen-Screenshot-2x.jpg" width="860" height="1046">
 
 ## Icons For
 
@@ -15,6 +15,7 @@ This is a spot for me to share icons I've (re)created to use on my local setup, 
 * IconJar
 * Plex
 * Sketch
+* Slack
 * Sublime Merge
 * Sublime Text
 * Textual
