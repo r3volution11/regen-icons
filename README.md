@@ -2,7 +2,7 @@
 
 This is a spot for me to share icons I've (re)created to use on my local setup, which is all about dark mode. I prefer consistency for my icons and like circles (spheres?) the most on desktop. I'm not trying to recreate the wheel, just making sure they're all round.
 
-<img src="http://r3v.in/YCrUb/Regen-Screenshot-2x.jpg" style="max-width: 100%; height: auto;">
+<img src="http://r3v.in/OXk8a/Regen-Screenshot-2x.jpg" style="max-width: 100%; height: auto;">
 
 ## Icons For
 
@@ -16,6 +16,7 @@ This is a spot for me to share icons I've (re)created to use on my local setup, 
 * App Store
 * Applications Folder
 * Bear (See [Material Theme for Bear](https://github.com/r3volution11/material-theme-bear-notes))
+* Commander One
 * Deliveries
 * Hyper
 * IconJar
